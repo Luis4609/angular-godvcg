@@ -16,6 +16,7 @@ import { CartComponent } from './cart/cart.component';
 @NgModule({
   imports: [
     BrowserModule,
+    HttpClientModule,
     ReactiveFormsModule,
     RouterModule.forRoot([
       { path: '', component: ProductListComponent },
