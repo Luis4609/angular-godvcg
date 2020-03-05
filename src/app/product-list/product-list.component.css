@@ -1,7 +1,12 @@
+h2{
+  color: rgb(0, 4, 255);
+  text-align: left;
+  font-family: verdana;
+  font-size: 25px;
+}
+
+p{
+  text-align: center;
+}
 
 
-/*
-Copyright Google LLC. All Rights Reserved.
-Use of this source code is governed by an MIT-style license that
-can be found in the LICENSE file at http://angular.io/license
-*/
